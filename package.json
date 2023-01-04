@@ -1,0 +1,29 @@
+{
+  "name": "react-parse-provider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "parse",
+    "hoc",
+    "sdk"
+  ],
+  "author": "okobsamoht <okobsamoht@gmail.com>",
+  "homepage": "https://github.com/okobsamoht/react-parse-provider#readme",
+  "bugs": {
+    "url": "https://github.com/okobsamoht/react-parse-provider/issues"
+  },
+  "license": "unlicenced",
+  "dependencies": {
+    "parse": "^3.5.1",
+    "react": "^18.2.0"
+  }
+}
