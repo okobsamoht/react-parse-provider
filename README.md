@@ -37,4 +37,7 @@ function MyComponent() {
 //...
 ```
 
+## to build:
+``yarn build``
+
 # thanks
